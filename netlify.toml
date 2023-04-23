@@ -2,3 +2,7 @@
   # Netlify Plugin Lighthouse
   # see detail: https://github.com/netlify/netlify-plugin-lighthouse
   package = "@netlify/plugin-lighthouse"
+
+[[plugins]]
+  # AMP Server-Side Rendering Netlify Plugin
+  package = "netlify-plugin-amp-server-side-rendering"
